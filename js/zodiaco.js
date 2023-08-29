@@ -3,7 +3,6 @@ function MudaDesenho(){
     const imagem = document.querySelector("img");
     const valor = document.querySelector('#valor').value;
     const texto2 = document.querySelector("h2");
-    const escorpião = document.querySelector("h2");    
     
     if(valor=="gemeos"){
         texto.innerHTML = "Gêmeos";
